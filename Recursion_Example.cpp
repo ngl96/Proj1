@@ -1,5 +1,4 @@
 //  Created by Nathanael Leyton on 12/13/18.
-//  rec14
 
 
 #include <iostream>
